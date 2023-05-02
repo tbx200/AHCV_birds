@@ -1,6 +1,6 @@
 # AHCV_birds
 
-DOI: 10.5281/zenodo.7885604
+DOI: [![DOI](https://zenodo.org/badge/635218802.svg)](https://zenodo.org/badge/latestdoi/635218802)
 
 Formatted data and analysis code for "AREAS OF HIGH CONSERVATION VALUE SUPPORT SPECIALIST FOREST BIRDS"
 
